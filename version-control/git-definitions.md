@@ -15,3 +15,5 @@
 	Merge conflicts often occur when a portion of code in the same place of a given file is edited by two different people and Github doesn't know which change to incorporate into the final file. Merge conflicts can also occur when one programmer changes the content of a file that another programmer has decided to delete.
 
 	Source: https://help.github.com/articles/addressing-merge-conflicts/
+
+	Here is the comment I'm adding for the tagging portion
