@@ -1,0 +1,23 @@
+Using an Elevator
+
+- Walk up to elevator
+- Press the “up” button, will be only button on the pad
+- Walk into elevator
+- Turn right, then right agin to now face out of the elevator
+- Approach the panel with all of the floor options
+- For each floor number, read corresponding company name:
+- When you see the company name “Capital One”, press corresponding button next to it
+- As the elevator stops, look at the floor number:
+	- Until floor number matches what you pushed, stay in elevation
+	- Once that floor is reached, get off of elevator
+
+
+Doing Laundry
+- Start by grabbing all of the clothes in your laundry basket
+- For each item, place dark clothes on the right and light/whites on the left, until all clothes are in a pile
+- Select one of the piles to put into the washer
+	- If lights, add 1 cup of detergent and run warm cycle
+	_ If dark, add 1 cup of detergent and run cold cycle
+- Once cycle is complete, take clothes from washer and place in dryer
+- Run dryer cycle 
+_ Repeat process until all piles of clothes have been washed and dried
